@@ -47,7 +47,7 @@ This project analyzes a dataset of **Uber ride bookings** to uncover patterns in
 ## 💻 How to Run This Project
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/RedaElMotassadiq/Uber-Ride-Analysis.git](https://github.com/RedaElMotassadiq/Uber-Ride-Analysis.git)
+    git clone [https://github.com/Reda-Mota/Uber-Ride-Analysis.git](https://github.com/Reda-Mota/Uber-Ride-Analysis.git)
     ```
 2.  Install required libraries:
     ```bash
